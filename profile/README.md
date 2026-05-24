@@ -10,6 +10,7 @@
 - [Remcity36](https://github.com/Lab301-ru/Remcity36) — сервис ремонта
 
 ## Контакты
-- Telegram: [@Judgeopenclawbot](https://t.me/Judgeopenclawbot)
+- Telegram бот: [@Judgeopenclawbot](https://t.me/Judgeopenclawbot)
+- Telegram личный: [@yuriybyg](https://t.me/yuriybyg)
 - Email: lab.301@ya.ru
 - Сайт: [lab301.ru](https://lab301.ru)
