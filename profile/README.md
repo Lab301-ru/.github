@@ -12,4 +12,5 @@
 - Email: lab.301@ya.ru
 - Сайт: [lab301.ru](https://lab301.ru)
 - LinkedIn: [linkedin.com/in/lab301](https://linkedin.com/in/lab301)
-- Резюме: [lab301.ru/resume.pdf](https://lab301.ru/resume.pdf)
+- Резюме (онлайн): [lab301.ru/resume](https://lab301.ru/resume/)
+- Резюме (PDF): [скачать PDF](https://lab301.ru/resume.pdf)
