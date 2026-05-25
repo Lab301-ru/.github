@@ -6,6 +6,7 @@
 - [bvg-ai](https://github.com/Lab301-ru/bvg-ai) — портфолио AI-художника
 - [inari](https://github.com/Lab301-ru/inari) — ателье Инари
 - [Remcity36](https://github.com/Lab301-ru/Remcity36) — сервис ремонта
+- [Mihalich-ai](https://github.com/Lab301-ru/mihalich-ai-bot) - сайт AI-агента Михалыч
 ## Контакты
 - Telegram бот: [@Judgeopenclawbot](https://t.me/Judgeopenclawbot)
 - Telegram личный: [@yuriybyg](https://t.me/yuriybyg)
