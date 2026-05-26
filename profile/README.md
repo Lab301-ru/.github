@@ -15,3 +15,6 @@
 - LinkedIn: [linkedin.com/in/lab301](https://linkedin.com/in/lab301)
 - Резюме (онлайн): [lab301.ru/resume](https://lab301.ru/resume/)
 - Резюме (PDF): [скачать PDF](https://lab301.ru/resume.pdf)
+- Resume (EN, PDF): [lab301.ru/resume-en.pdf](https://lab301.ru/resume-en.pdf)
+
+
